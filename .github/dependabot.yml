@@ -1,0 +1,15 @@
+# Dependabot configuration
+#
+# This is explicitly configured to be checked infrequently, since this
+# repository is non-critical.
+
+version: 2
+updates:
+  - package-ecosystem: pre-commit
+    directory: "/"
+    schedule:
+      interval: monthly
+  - package-ecosystem: github-actions
+    directory: "/.github/workflows"
+    schedule:
+      interval: monthly
