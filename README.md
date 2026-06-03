@@ -3,6 +3,16 @@ Theses, end projects and other contributions to and for the MIRTE robots
 
 <sub> These are ordered in chronological order, newest at the top </sub>
 
+## Getting MIRTE under (`ros2_`)`control`
+Jasper van Brakel <sub>February 2026</sub>
+
+[SuperJappie08/mirte-thesis-control](https://github.com/SuperJappie08/mirte-thesis-control): A redesign and validation of the `ros2_control` setup of the MIRTE Master base.
+The validation is performed using a flexible custom validation/measurement setup, allowing for step and frequency response measurements to be performed and analyzed.
+
+More related repositories are listed in the Appendix C of the thesis.
+
+Master thesis: [Getting MIRTE under (`ros2_`)`control`](https://resolver.tudelft.nl/uuid:4836332b-3f04-4104-88eb-180bddf7b7af)
+
 ## MIRTE Master Robot - SINDYc & Tube NMPC
 Elysia Bonello<sub>October 2025</sub>
 
